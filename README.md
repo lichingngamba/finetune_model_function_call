@@ -2,7 +2,12 @@
 A finetune model for function call during conversation
 
 - project status
-    - in progress (could not complete because of lack of computing resource will try again later)
+    - completed
+
+- Model hosted in Huggingface Model Hub
+  - mode id: langdai/gemma-2-2B-it_think_funcion_call
+  - url: https://huggingface.co/langdai/gemma-2-2B-it_think_funcion_call/blob/main/README.md
+
 - Description
-  - This is a finetune model for function call during conversation. The model is trained on a dataset of function call during conversation. 
+  - This is a finetune model for function call during conversation, it has the ability to think. The model is trained on a dataset of function call during conversation. 
 
